@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Republic",
+    "writer": "Plato",
+    "edition": "3rd",
+    "download_address": "https://example.com/republic.pdf"
+  },
+  {
+    "title": "Meditations",
+    "writer": "Marcus Aurelius",
+    "edition": null,
+    "download_address": "https://example.com/meditations.pdf"
+  },
+  {
+    "title": "Meditaetions",
+    "writer": "Marcus Aurelius",
+    "edition": null,
+    "download_address": "https://example.com/meditations.pdf"
+  },
+  {
+    "title": "Meditatiosns",
+    "writer": "Marcus Aurelius",
+    "edition": null,
+    "download_address": "https://example.com/meditations.pdf"
+  },
+  {
+    "title": "Meditatikons",
+    "writer": "Marcus Aurelius",
+    "edition": null,
+    "download_address": "https://example.com/meditations.pdf"
+  }
+]
