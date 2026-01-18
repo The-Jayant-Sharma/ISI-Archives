@@ -1,32 +1,27 @@
 [
   {
-    "title": "The Republic",
-    "writer": "Plato",
-    "edition": "3rd",
-    "download_address": "https://example.com/republic.pdf"
+    "title": "Euclidean Geometry in Mathematical Olympiads",
+    "writer": "Evan Chen",
+    "edition": "2016",
+    "download_address": "https://github.com/The-Jayant-Sharma/ISI-Archives/raw/refs/heads/main/Chen%20Evan%20Euclidean%20Geometry%20In%20Mathematical%20Olympiads%202016.pdf"
   },
   {
-    "title": "Meditations",
-    "writer": "Marcus Aurelius",
-    "edition": null,
-    "download_address": "https://example.com/meditations.pdf"
+    "title": "Problems in Plane Geometry",
+    "writer": "I.F. Sharygin",
+    "edition": "MIR Publishers, 1982",
+    "download_address": "https://github.com/The-Jayant-Sharma/ISI-Archives/raw/refs/heads/main/Problems%20in%20Plane%20Geometry%20-%20Sharygin%20(MIR,1982).pdf"
   },
   {
-    "title": "Meditaetions",
-    "writer": "Marcus Aurelius",
-    "edition": null,
-    "download_address": "https://example.com/meditations.pdf"
+    "title": "Geometry Revisited",
+    "writer": "H.S.M. Coxeter & S.L. Greitzer",
+    "edition": "MAA Edition",
+    "download_address": "https://github.com/The-Jayant-Sharma/ISI-Archives/raw/refs/heads/main/geometryrevisited_coxetergreitzer.pdf"
   },
   {
-    "title": "Meditatiosns",
-    "writer": "Marcus Aurelius",
-    "edition": null,
-    "download_address": "https://example.com/meditations.pdf"
-  },
-  {
-    "title": "Meditatikons",
-    "writer": "Marcus Aurelius",
-    "edition": null,
-    "download_address": "https://example.com/meditations.pdf"
+    "title": "A Beautiful Journey Through Olympiad Geometry",
+    "writer": "Stefan Lozanizky",
+    "edition": "100 Problems",
+    "download_address": "https://github.com/The-Jayant-Sharma/ISI-Archives/raw/refs/heads/main/toaz.info-a-beautiful-journey-through-olympiad-geometry-100-pr_fb58f5931fdad0620a8d1da2abbc49c6.pdf"
   }
 ]
+
